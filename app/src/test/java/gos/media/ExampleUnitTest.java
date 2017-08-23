@@ -33,7 +33,7 @@ import static gos.media.define.CommandType.*;   //导入静态命令集
  */
 public class ExampleUnitTest {
     String[] testUrl = new String[]{
-            "http://192.168.1.109:1026/hls_encrypt/out/langyb/program.m3u8",
+            "http://192.168.1.109:1026/out/enc_name.m3u8",
             "http://192.168.100.103/hls_media_1.m3u8" ,
     "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8",
     "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8" ,
